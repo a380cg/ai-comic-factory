@@ -42,6 +42,7 @@ export default async function IndexPage() {
 
         </TooltipProvider>
 
+        <iframe data-aa='2377679' src='//acceptable.a-ads.com/2377679' style='border:0px; padding:0; width:100%; height:100%; overflow:hidden; background-color: transparent;'></iframe>
         <Script src="https://www.googletagmanager.com/gtag/js?id=GTM-WH4MGSHS" />
         <Script id="google-analytics">
           {`
